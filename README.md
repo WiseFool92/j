@@ -2,7 +2,7 @@
 
 #### Git, HTML, Bootstrap, md, CSS, js, jQuery Exercise for Epicodus, 03.23.2020
 
-#### By Nathan W-H
+#### By Nathan W-H & Allison M
 
 ## Description
 
